@@ -1,6 +1,7 @@
 "use client";
 
 import Image from "next/image";
+import portrait from "@/IMG/FB_IMG_1689618305861.jpg";
 import React from "react";
 import { motion } from "framer-motion";
 import Link from "next/link";
