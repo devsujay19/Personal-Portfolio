@@ -33,7 +33,7 @@ export default function Intro() {
           >
             <Image
              // src="https://yt3.googleusercontent.com/7kqJKvSLQkWj_QZ-AtPLWDK845w6bPrz89euEGzojML2uTi3No1wFReQbAzDV5TXcYNMXUZvZno=s176-c-k-c0x00ffffff-no-rj"
-              src="https://scontent.fccu3-1.fna.fbcdn.net/v/t39.30808-1/348581780_2649566235182318_7197239651510517941_n.jpg?stp=c0.27.160.160a_dst-jpg_p160x160&_nc_cat=103&ccb=1-7&_nc_sid=5fac6f&_nc_ohc=Q9XSijYx_TYAX9qJPLZ&_nc_ht=scontent.fccu3-1.fna&oh=00_AfDRwnd9HPOIahnlUNvJ-T3MtG0Vm8Oa2JoJ1FuVRDzxqw&oe=6515DA74"
+              src={portrait}
               alt="Sujay's Portrait."
               width="192"
               height="192"
